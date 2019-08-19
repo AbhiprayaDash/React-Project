@@ -1,0 +1,10 @@
+.bod{
+    margin:0;
+    padding:0;
+    font-family:'Roboto', sans-serif;
+    background:url(office.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:0.6;
+
+}
